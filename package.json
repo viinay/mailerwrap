@@ -1,0 +1,17 @@
+{
+  "name": "mailerwrap",
+  "version": "1.0.0",
+  "description": "wrapper for smtp,imap services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smtp",
+    "imap",
+    "node-imap",
+    "gmail-api"
+  ],
+  "author": "vinay mengu",
+  "license": "ISC"
+}
